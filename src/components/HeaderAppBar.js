@@ -23,7 +23,6 @@ export default function HeaderAppBar() {
                     
                     <Button color="inherit" href="/cadastrar">Cadastrar</Button>
                     <Button color="inherit" href="/pesquisar">Pesquisar</Button>
-                    <Button color="inherit" href="/painel">Painel</Button>
                    
                 </Toolbar>
             </AppBar>

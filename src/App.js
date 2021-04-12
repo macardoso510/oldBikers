@@ -45,6 +45,9 @@ function App() {
         <HeaderAppBar />
         <Container maxWidth="lg">
           <Switch>
+          <Route path="/home">
+              <h1>Home</h1>
+            </Route>
             <Route path="/cadastrar">
               <CadastrarForm />
             </Route>
